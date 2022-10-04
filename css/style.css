@@ -1,0 +1,5 @@
+.top-pane {
+    background: center fixed;
+    background-size: cover;
+    height: calc(100vh - 56px);
+}
